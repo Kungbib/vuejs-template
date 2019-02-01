@@ -2,7 +2,7 @@
 
 Template for getting started with Vue.js projects at the National Library of Sweden.
 
-The viewer is the front-end to the ebooks-prototype. It is driven by Webpack 4 through [Vue CLI 3](https://cli.vuejs.org/).
+It is driven by Webpack 4 through [Vue CLI 3](https://cli.vuejs.org/).
 
 **TOC:**
 * [Project Setup](#project-setup)
